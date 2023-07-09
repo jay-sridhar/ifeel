@@ -16,13 +16,17 @@ Have you ever had to search for team-engagement games? "Family Feud" is a game t
 ### For the game admin / moderator
 * Open output/index.html and present that page to host the game.
 * You can find the game rules along with the list of question ids in this page.
-![Rules](resources/rulesquestions.png) 
 * Clicking on a question to start a round. The timer automatically starts as soon as the page loads.
-![Admin guide](resources/samplequestion.png)
 * Use the resources/questionbank.csv for verifying if a given answer is up in the leaderboard.
 * Click anywhere on the row matching the rank of the answer to reveal it.
 * Use "Take life" button to reduce the lives left by 1.
 * When all the lives are over, the question is open for stealing and the same would be indicated by the following indicator.
+
+### Screenshots
+* Home page
+![Rules](resources/rulesquestions.png) 
+* Questions page
+![Admin guide](resources/samplequestion.png)
 
 ### Dependencies
 

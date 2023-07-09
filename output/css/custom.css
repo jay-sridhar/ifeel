@@ -1,0 +1,52 @@
+body {
+    margin: 0 20%;
+}
+
+h1 {
+    padding: 10px 0px;
+    text-align: center;
+}
+
+h2 {
+    padding: 20px 0 10px 0;
+}
+
+table {
+    font-size: 25px;
+}
+tbody tr{
+    cursor: pointer;
+}
+.hidden {
+    display: none;
+}
+
+.points {
+    font-weight: bold;
+    color: darkolivegreen;
+}
+.num{
+    text-align: right;
+    padding-right: 20px!important;
+}
+#point, .game-mode, .lives{
+    font-size: 18px;
+    text-align: center;
+}
+
+#congrats {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+.tagline{
+    font-size: 20px;
+}
+.countdown{
+    text-align: center;
+    font-size: 60px;
+}
+.btn-container{
+    text-align: center;
+    padding: 15px 0;
+}
